@@ -1,0 +1,17 @@
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.deps.json
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.runtimeconfig.json
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.runtimeconfig.dev.json
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.pdb
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.pdb
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.csprojAssemblyReference.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.AssemblyInfoInputs.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.AssemblyInfo.cs
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.csproj.CopyComplete
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApiTest\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApiTest.pdb

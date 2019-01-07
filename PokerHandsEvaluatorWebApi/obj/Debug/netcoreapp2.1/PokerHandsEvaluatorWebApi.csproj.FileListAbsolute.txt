@@ -1,0 +1,14 @@
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.deps.json
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.runtimeconfig.json
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.runtimeconfig.dev.json
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\bin\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.pdb
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.csprojAssemblyReference.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.csproj.CoreCompileInputs.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.RazorAssemblyInfo.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.RazorAssemblyInfo.cs
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.AssemblyInfoInputs.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.AssemblyInfo.cs
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.dll
+C:\Users\vijilv\source\repos\PokerHandsEvaluatorWebApi\PokerHandsEvaluatorWebApi\obj\Debug\netcoreapp2.1\PokerHandsEvaluatorWebApi.pdb
